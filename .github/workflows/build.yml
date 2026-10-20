@@ -19,3 +19,4 @@ jobs:
           bindings: geode-sdk/bindings
           bindings-ref: main
           combine: true
+          configure-args: -DCMAKE_CXX_FLAGS=-DFMT_USE_CONSTEVAL=0
