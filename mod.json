@@ -5,7 +5,7 @@
     },
     "id": "wavedev.wave-no-flip",
     "name": "Wave No Flip",
-    "version": "v1.0.0",
+    "version": "v1.0.2",
     "developer": "wavedev",
     "description": "Gravity portals no longer flip gravity while you are in wave mode.",
     "settings": {
