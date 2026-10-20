@@ -1,0 +1,25 @@
+{
+    "geode": "4.0.0",
+    "gd": {
+        "win": "*"
+    },
+    "id": "wavedev.wave-no-flip",
+    "name": "Wave No Flip",
+    "version": "v1.0.0",
+    "developer": "wavedev",
+    "description": "Gravity portals no longer flip gravity while you are in wave mode.",
+    "settings": {
+        "enabled": {
+            "type": "bool",
+            "name": "Enabled",
+            "description": "Gravity portals don't flip gravity while in wave mode.",
+            "default": true
+        },
+        "practice-only": {
+            "type": "bool",
+            "name": "Practice Mode Only",
+            "description": "Only apply the effect in practice mode, so normal runs stay legit.",
+            "default": true
+        }
+    }
+}
