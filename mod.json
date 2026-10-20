@@ -1,7 +1,7 @@
 {
-    "geode": "4.0.0",
-    "gd": {
-        "win": "*"
+  "geode": "5.11.2",
+"gd": {
+    "win": "2.2081"
     },
     "id": "wavedev.wave-no-flip",
     "name": "Wave No Flip",
